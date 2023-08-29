@@ -2,7 +2,7 @@
 
 An "estimated max" (EM) is a theoretical value for what someone could possibly execute for a one rep max (1RM) on any given strength training exercise given how many reps they can perform at a lighter weight. 1RM and EM are typically only discussed for compound, barbell movements (such as the back squat, bench press, and/or deadlift) where doing such a thing is practical and relatively safe.
 
-This project is a collection of Jupyter notebooks that plot the highest EM that I achieve during a workout over time.
+This project is a collection of Jupyter notebooks that plot the highest EM that I've achieved during a workout for a particular lift over time.
 
 ## Considerations
 1. EM formulas are more accurate on sets where someone attempts as many reps as possible (AMRAP) at a given weight, but will underestimate when someone uses the same weight for repeated sets (sets across). In my data, there is a mix of AMRAP sets and sets across, since consistently doing AMRAP sets is physically and neurologically taxing. This typically results in a visible oscillation of values from workout to workout.
