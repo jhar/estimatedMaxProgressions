@@ -1,12 +1,68 @@
 [
-  { "date": "07/01/2023", "weight": 322.5, "reps": 4, "estimatedMax": 362.56 },
-  { "date": "07/07/2023", "weight": 332.5, "reps": 2, "estimatedMax": 352.68 },
-  { "date": "07/13/2023", "weight": 325, "reps": 4, "estimatedMax": 365.37 },
-  { "date": "07/19/2023", "weight": 335, "reps": 4, "estimatedMax": 376.61 },
-  { "date": "07/25/2023", "weight": 337.5, "reps": 2, "estimatedMax": 357.99 },
-  { "date": "07/31/2023", "weight": 340, "reps": 2, "estimatedMax": 360.64 },
-  { "date": "08/06/2023", "weight": 342.5, "reps": 2, "estimatedMax": 363.29 },
-  { "date": "08/12/2023", "weight": 345, "reps": 2, "estimatedMax": 365.94 },
-  { "date": "08/18/2023", "weight": 347.5, "reps": 2, "estimatedMax": 368.59 },
-  { "date": "08/24/2023", "weight": 337.5, "reps": 4, "estimatedMax": 379.42 }
+  {
+    "date": "07/01/2023",
+    "weight": 322.5,
+    "reps": 4,
+    "estimatedMax": 362.56
+  },
+  {
+    "date": "07/07/2023",
+    "weight": 332.5,
+    "reps": 2,
+    "estimatedMax": 352.68
+  },
+  {
+    "date": "07/13/2023",
+    "weight": 325,
+    "reps": 4,
+    "estimatedMax": 365.37
+  },
+  {
+    "date": "07/19/2023",
+    "weight": 335,
+    "reps": 4,
+    "estimatedMax": 376.61
+  },
+  {
+    "date": "07/25/2023",
+    "weight": 337.5,
+    "reps": 2,
+    "estimatedMax": 357.99
+  },
+  {
+    "date": "07/31/2023",
+    "weight": 340,
+    "reps": 2,
+    "estimatedMax": 360.64
+  },
+  {
+    "date": "08/06/2023",
+    "weight": 342.5,
+    "reps": 2,
+    "estimatedMax": 363.29
+  },
+  {
+    "date": "08/12/2023",
+    "weight": 345,
+    "reps": 2,
+    "estimatedMax": 365.94
+  },
+  {
+    "date": "08/18/2023",
+    "weight": 347.5,
+    "reps": 2,
+    "estimatedMax": 368.59
+  },
+  {
+    "date": "08/24/2023",
+    "weight": 337.5,
+    "reps": 4,
+    "estimatedMax": 379.42
+  },
+  {
+    "date": "08/30/2023",
+    "weight": 350,
+    "reps": 2,
+    "estimatedMax": 371.25
+  }
 ]

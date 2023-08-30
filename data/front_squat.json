@@ -67,12 +67,6 @@
   },
   {
     "date": "06/05/2023",
-    "weight": 247.5,
-    "reps": 2,
-    "estimatedMax": 262.52
-  },
-  {
-    "date": "06/05/2023",
     "weight": 230,
     "reps": 5,
     "estimatedMax": 265.62
@@ -334,5 +328,11 @@
     "weight": 265,
     "reps": 1,
     "estimatedMax": 271.58
+  },
+  {
+    "date": "08/30/2023",
+    "weight": 277.5,
+    "reps": 1,
+    "estimatedMax": 283.07
   }
 ]
