@@ -1,49 +1,290 @@
 [
-  { "date": "01/28/2023", "weight": 285, "reps": 5, "estimatedMax": 329.14 },
-  { "date": "02/03/2023", "weight": 302.5, "reps": 4, "estimatedMax": 340.07 },
-  { "date": "02/09/2023", "weight": 295, "reps": 6, "estimatedMax": 349.70 },
-  { "date": "02/13/2023", "weight": 320, "reps": 3, "estimatedMax": 349.78 },
-  { "date": "02/17/2023", "weight": 312.5, "reps": 5, "estimatedMax": 360.90 },
-  { "date": "02/21/2023", "weight": 305, "reps": 7, "estimatedMax": 370.92 },
-  { "date": "02/25/2023", "weight": 322.5, "reps": 4, "estimatedMax": 362.56 },
-  { "date": "03/01/2023", "weight": 315, "reps": 5, "estimatedMax": 363.79 },
-  { "date": "03/05/2023", "weight": 325, "reps": 5, "estimatedMax": 375.34 },
-  { "date": "03/09/2023", "weight": 327.5, "reps": 5, "estimatedMax": 378.22 },
-  { "date": "03/13/2023", "weight": 330, "reps": 5, "estimatedMax": 381.11 },
-  { "date": "03/17/2023", "weight": 332.5, "reps": 5, "estimatedMax": 383.99 },
-  { "date": "03/21/2023", "weight": 307.5, "reps": 8, "estimatedMax": 383.48 },
-  { "date": "03/25/2023", "weight": 335, "reps": 5, "estimatedMax": 386.88 },
-  { "date": "03/29/2023", "weight": 310, "reps": 7, "estimatedMax": 377.00 },
-  { "date": "04/02/2023", "weight": 337.5, "reps": 4, "estimatedMax": 379.42 },
-  { "date": "04/06/2023", "weight": 312.5, "reps": 6, "estimatedMax": 370.45 },
-  { "date": "04/10/2023", "weight": 340, "reps": 5, "estimatedMax": 392.66 },
-  { "date": "04/14/2023", "weight": 315, "reps": 6, "estimatedMax": 373.41 },
-  { "date": "04/18/2023", "weight": 342.5, "reps": 5, "estimatedMax": 395.55 },
-  { "date": "04/22/2023", "weight": 317.5, "reps": 6, "estimatedMax": 376.38 },
-  { "date": "04/26/2023", "weight": 345, "reps": 3, "estimatedMax": 377.11 },
-  { "date": "04/30/2023", "weight": 320, "reps": 6, "estimatedMax": 379.34 },
-  { "date": "05/04/2023", "weight": 347.5, "reps": 3, "estimatedMax": 379.84 },
-  { "date": "05/08/2023", "weight": 322.5, "reps": 6, "estimatedMax": 382.30 },
-  { "date": "05/12/2023", "weight": 350, "reps": 3, "estimatedMax": 382.58 },
-  { "date": "05/16/2023", "weight": 325, "reps": 6, "estimatedMax": 385.27 },
-  { "date": "05/20/2023", "weight": 352.5, "reps": 7, "estimatedMax": 428.68 },
-  { "date": "05/24/2023", "weight": 355, "reps": 3, "estimatedMax": 388.04 },
-  { "date": "05/28/2023", "weight": 357.5, "reps": 5, "estimatedMax": 412.87 },
-  { "date": "06/01/2023", "weight": 360, "reps": 3, "estimatedMax": 393.51 },
-  { "date": "06/05/2023", "weight": 362.5, "reps": 3, "estimatedMax": 396.24 },
-  { "date": "06/09/2023", "weight": 365, "reps": 6, "estimatedMax": 432.68 },
-  { "date": "06/13/2023", "weight": 367.5, "reps": 3, "estimatedMax": 401.70 },
-  { "date": "06/17/2023", "weight": 370, "reps": 3, "estimatedMax": 404.44 },
-  { "date": "06/21/2023", "weight": 372.5, "reps": 3, "estimatedMax": 407.17 },
-  { "date": "06/27/2023", "weight": 385, "reps": 1, "estimatedMax": 385.00 },
-  { "date": "07/03/2023", "weight": 375, "reps": 3, "estimatedMax": 409.90 },
-  { "date": "07/09/2023", "weight": 377.5, "reps": 4, "estimatedMax": 424.39 },
-  { "date": "07/15/2023", "weight": 380, "reps": 3, "estimatedMax": 415.37 },
-  { "date": "07/21/2023", "weight": 382.5, "reps": 3, "estimatedMax": 418.10 },
-  { "date": "07/27/2023", "weight": 385, "reps": 4, "estimatedMax": 432.82 },
-  { "date": "08/02/2023", "weight": 387.5, "reps": 3, "estimatedMax": 423.57 },
-  { "date": "08/08/2023", "weight": 367.5, "reps": 5, "estimatedMax": 424.42 },
-  { "date": "08/14/2023", "weight": 390, "reps": 4, "estimatedMax": 438.44 },
-  { "date": "08/20/2023", "weight": 370, "reps": 5, "estimatedMax": 427.30 },
-  { "date": "08/26/2023", "weight": 392.5, "reps": 3, "estimatedMax": 429.03 }
+  {
+    "date": "01/28/2023",
+    "weight": 285,
+    "reps": 5,
+    "estimatedMax": 329.14
+  },
+  {
+    "date": "02/03/2023",
+    "weight": 302.5,
+    "reps": 4,
+    "estimatedMax": 340.07
+  },
+  {
+    "date": "02/09/2023",
+    "weight": 295,
+    "reps": 6,
+    "estimatedMax": 349.70
+  },
+  {
+    "date": "02/13/2023",
+    "weight": 320,
+    "reps": 3,
+    "estimatedMax": 349.78
+  },
+  {
+    "date": "02/17/2023",
+    "weight": 312.5,
+    "reps": 5,
+    "estimatedMax": 360.90
+  },
+  {
+    "date": "02/21/2023",
+    "weight": 305,
+    "reps": 7,
+    "estimatedMax": 370.92
+  },
+  {
+    "date": "02/25/2023",
+    "weight": 322.5,
+    "reps": 4,
+    "estimatedMax": 362.56
+  },
+  {
+    "date": "03/01/2023",
+    "weight": 315,
+    "reps": 5,
+    "estimatedMax": 363.79
+  },
+  {
+    "date": "03/05/2023",
+    "weight": 325,
+    "reps": 5,
+    "estimatedMax": 375.34
+  },
+  {
+    "date": "03/09/2023",
+    "weight": 327.5,
+    "reps": 5,
+    "estimatedMax": 378.22
+  },
+  {
+    "date": "03/13/2023",
+    "weight": 330,
+    "reps": 5,
+    "estimatedMax": 381.11
+  },
+  {
+    "date": "03/17/2023",
+    "weight": 332.5,
+    "reps": 5,
+    "estimatedMax": 383.99
+  },
+  {
+    "date": "03/21/2023",
+    "weight": 307.5,
+    "reps": 8,
+    "estimatedMax": 383.48
+  },
+  {
+    "date": "03/25/2023",
+    "weight": 335,
+    "reps": 5,
+    "estimatedMax": 386.88
+  },
+  {
+    "date": "03/29/2023",
+    "weight": 310,
+    "reps": 7,
+    "estimatedMax": 377.00
+  },
+  {
+    "date": "04/02/2023",
+    "weight": 337.5,
+    "reps": 4,
+    "estimatedMax": 379.42
+  },
+  {
+    "date": "04/06/2023",
+    "weight": 312.5,
+    "reps": 6,
+    "estimatedMax": 370.45
+  },
+  {
+    "date": "04/10/2023",
+    "weight": 340,
+    "reps": 5,
+    "estimatedMax": 392.66
+  },
+  {
+    "date": "04/14/2023",
+    "weight": 315,
+    "reps": 6,
+    "estimatedMax": 373.41
+  },
+  {
+    "date": "04/18/2023",
+    "weight": 342.5,
+    "reps": 5,
+    "estimatedMax": 395.55
+  },
+  {
+    "date": "04/22/2023",
+    "weight": 317.5,
+    "reps": 6,
+    "estimatedMax": 376.38
+  },
+  {
+    "date": "04/26/2023",
+    "weight": 345,
+    "reps": 3,
+    "estimatedMax": 377.11
+  },
+  {
+    "date": "04/30/2023",
+    "weight": 320,
+    "reps": 6,
+    "estimatedMax": 379.34
+  },
+  {
+    "date": "05/04/2023",
+    "weight": 347.5,
+    "reps": 3,
+    "estimatedMax": 379.84
+  },
+  {
+    "date": "05/08/2023",
+    "weight": 322.5,
+    "reps": 6,
+    "estimatedMax": 382.30
+  },
+  {
+    "date": "05/12/2023",
+    "weight": 350,
+    "reps": 3,
+    "estimatedMax": 382.58
+  },
+  {
+    "date": "05/16/2023",
+    "weight": 325,
+    "reps": 6,
+    "estimatedMax": 385.27
+  },
+  {
+    "date": "05/20/2023",
+    "weight": 352.5,
+    "reps": 7,
+    "estimatedMax": 428.68
+  },
+  {
+    "date": "05/24/2023",
+    "weight": 355,
+    "reps": 3,
+    "estimatedMax": 388.04
+  },
+  {
+    "date": "05/28/2023",
+    "weight": 357.5,
+    "reps": 5,
+    "estimatedMax": 412.87
+  },
+  {
+    "date": "06/01/2023",
+    "weight": 360,
+    "reps": 3,
+    "estimatedMax": 393.51
+  },
+  {
+    "date": "06/05/2023",
+    "weight": 362.5,
+    "reps": 3,
+    "estimatedMax": 396.24
+  },
+  {
+    "date": "06/09/2023",
+    "weight": 365,
+    "reps": 6,
+    "estimatedMax": 432.68
+  },
+  {
+    "date": "06/13/2023",
+    "weight": 367.5,
+    "reps": 3,
+    "estimatedMax": 401.70
+  },
+  {
+    "date": "06/17/2023",
+    "weight": 370,
+    "reps": 3,
+    "estimatedMax": 404.44
+  },
+  {
+    "date": "06/21/2023",
+    "weight": 372.5,
+    "reps": 3,
+    "estimatedMax": 407.17
+  },
+  {
+    "date": "06/27/2023",
+    "weight": 385,
+    "reps": 1,
+    "estimatedMax": 385.00
+  },
+  {
+    "date": "07/03/2023",
+    "weight": 375,
+    "reps": 3,
+    "estimatedMax": 409.90
+  },
+  {
+    "date": "07/09/2023",
+    "weight": 377.5,
+    "reps": 4,
+    "estimatedMax": 424.39
+  },
+  {
+    "date": "07/15/2023",
+    "weight": 380,
+    "reps": 3,
+    "estimatedMax": 415.37
+  },
+  {
+    "date": "07/21/2023",
+    "weight": 382.5,
+    "reps": 3,
+    "estimatedMax": 418.10
+  },
+  {
+    "date": "07/27/2023",
+    "weight": 385,
+    "reps": 4,
+    "estimatedMax": 432.82
+  },
+  {
+    "date": "08/02/2023",
+    "weight": 387.5,
+    "reps": 3,
+    "estimatedMax": 423.57
+  },
+  {
+    "date": "08/08/2023",
+    "weight": 367.5,
+    "reps": 5,
+    "estimatedMax": 424.42
+  },
+  {
+    "date": "08/14/2023",
+    "weight": 390,
+    "reps": 4,
+    "estimatedMax": 438.44
+  },
+  {
+    "date": "08/20/2023",
+    "weight": 370,
+    "reps": 5,
+    "estimatedMax": 427.30
+  },
+  {
+    "date": "08/26/2023",
+    "weight": 392.5,
+    "reps": 3,
+    "estimatedMax": 429.03
+  },
+  {
+    "date": "09/01/2023",
+    "weight": 372.5,
+    "reps": 8,
+    "estimatedMax": 464.54
+  }
 ]
