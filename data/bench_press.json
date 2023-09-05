@@ -298,5 +298,11 @@
     "weight": 235,
     "reps": 11,
     "estimatedMax": 315.6
+  },
+  {
+    "date": "09/05/2023",
+    "weight": 275,
+    "reps": 3,
+    "estimatedMax": 300.59
   }
 ]
